@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace Hunt.Areas.HelpPage.ModelDescriptions
+namespace GoatHunt.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

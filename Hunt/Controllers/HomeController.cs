@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Hunt.Controllers
+namespace GoatHunt.Controllers
 {
     public class HomeController : Controller
     {

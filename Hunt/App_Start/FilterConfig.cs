@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Hunt
+namespace GoatHunt
 {
     public class FilterConfig
     {

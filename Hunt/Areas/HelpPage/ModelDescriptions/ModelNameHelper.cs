@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace Hunt.Areas.HelpPage.ModelDescriptions
+namespace GoatHunt.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

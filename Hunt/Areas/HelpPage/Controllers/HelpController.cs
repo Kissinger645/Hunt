@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using Hunt.Areas.HelpPage.ModelDescriptions;
-using Hunt.Areas.HelpPage.Models;
+using GoatHunt.Areas.HelpPage.ModelDescriptions;
+using GoatHunt.Areas.HelpPage.Models;
 
-namespace Hunt.Areas.HelpPage.Controllers
+namespace GoatHunt.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

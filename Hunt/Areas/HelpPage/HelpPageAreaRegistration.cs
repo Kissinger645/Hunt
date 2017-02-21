@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace Hunt.Areas.HelpPage
+namespace GoatHunt.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

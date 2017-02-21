@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using Hunt.Areas.HelpPage.ModelDescriptions;
-using Hunt.Areas.HelpPage.Models;
+using GoatHunt.Areas.HelpPage.ModelDescriptions;
+using GoatHunt.Areas.HelpPage.Models;
 
-namespace Hunt.Areas.HelpPage
+namespace GoatHunt.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

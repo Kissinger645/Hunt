@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace Hunt.Areas.HelpPage.ModelDescriptions
+namespace GoatHunt.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

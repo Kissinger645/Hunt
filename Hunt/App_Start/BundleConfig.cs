@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Hunt
+namespace GoatHunt
 {
     public class BundleConfig
     {

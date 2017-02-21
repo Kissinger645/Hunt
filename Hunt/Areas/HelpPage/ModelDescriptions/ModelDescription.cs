@@ -1,6 +1,6 @@
 using System;
 
-namespace Hunt.Areas.HelpPage.ModelDescriptions
+namespace GoatHunt.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.
